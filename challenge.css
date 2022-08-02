@@ -1,0 +1,80 @@
+
+.body {
+    background-color: rgb(224, 222, 222);
+}
+
+.main {
+    width: 375px; 
+    padding-bottom: 30px; 
+    border-radius: 25px; 
+    background-color: white; 
+    margin: auto;
+}
+
+.hero img {
+    border-radius: 15px 15px 0 0;
+    margin: 0px;
+}
+
+.info {
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+.plan {
+    margin: 0px 30px 30px 30px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(236, 236, 236);               
+}
+
+.music {
+    display: inline-block;
+    width: 30px;
+    vertical-align: center;
+}
+
+.sub {
+    display: inline-block;
+    width: 200px;
+}
+
+.annual {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.amount {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.link {
+    display: inline-block;
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 2em;
+}
+
+.payment {
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(3, 3, 155);
+    margin: 0px 30px;
+    color: white;
+    box-shadow: 20px;
+}
+
+.cancel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+   width: 100%;
+   padding: 15px;
+   margin: 10px 0px;
+}
+    
